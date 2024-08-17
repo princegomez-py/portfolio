@@ -203,7 +203,7 @@ export const projects = [
                 'color': "text-yellow-500",
             },
         ],
-        'image': 'https://www.adityabirla.com/Content/ultratech-small-logo.jpg'
+        'image': 'https://i.pinimg.com/originals/98/4d/60/984d60630186e440e9c01655c3e50f1b.png'
     }
 ];
 
