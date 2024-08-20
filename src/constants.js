@@ -203,7 +203,7 @@ export const projects = [
                 'color': "text-yellow-500",
             },
         ],
-        'image': 'https://i.pinimg.com/originals/98/4d/60/984d60630186e440e9c01655c3e50f1b.png'
+        'image': 'https://zifilink.com/wp-content/uploads/2020/04/Ultratech-Cement-Logo-1-300x248.png'
     }
 ];
 
