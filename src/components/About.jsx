@@ -30,7 +30,7 @@ const About = () => {
     <div className='sm:px-16 px-2'>
       <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Overview.</h2>
       <p className='mt-3 mb-4 text-[17px] max-w-3xl leading-[30px]'>
-          👨‍💻 Hi, I’m Prince Gomez, a passionate software engineer with over 4 years of experience crafting high-impact backend systems across diverse sectors including Energy, Media, Finance, Healthcare, and IT, where I’ve leveraged cutting-edge technologies to solve complex challenges and drive innovation.
+          👨‍💻 Hi, I’m Prince Gomez, a passionate software engineer with over 5 years of experience crafting high-impact backend systems across diverse sectors including Energy, Media, Finance, Healthcare, and IT, where I’ve leveraged cutting-edge technologies to solve complex challenges and drive innovation.
       </p>
       <p className='mt-3 mb-4 text-[17px] max-w-3xl leading-[30px]'>
           🚀 I specialize in backend development with expertise in Python, Flask, FastAPI, Java, and Spring Boot. My proficiency in cloud computing platforms like Google Cloud Platform and AWS has allowed me to lead successful migrations, develop cloud functions and workflows.
